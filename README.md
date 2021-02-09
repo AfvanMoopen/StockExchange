@@ -1,3 +1,3 @@
-#StockExchangeApp is an multi-threaded JavaFX application 
+StockExchangeApp is an multi-threaded JavaFX application 
 
 
